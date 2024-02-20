@@ -1,5 +1,6 @@
 # Master_Thesis
-Code for the pipeline described in the Master thesis
+Code for the pipeline described in the Master Thesis
+
 Flow of the pipeline: 
 
 1. script_23_12_20.m
